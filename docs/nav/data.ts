@@ -164,13 +164,25 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://static.ai-hobbyist.com/icons/link.png',
         title: '原神全角色',
         desc: '红血球AE3803|1024*6|Lynxnet|5.2',
-        link: 'hhttps://pan.ai-hobbyist.com/d/Models/SVS/DiffSinger/%E5%8E%9F%E7%A5%9E/Genshin_DiffSinger_Lynxnet.7z',
+        link: 'https://pan.ai-hobbyist.com/d/Models/SVS/DiffSinger/%E5%8E%9F%E7%A5%9E/Genshin_DiffSinger_Lynxnet.7z',
       },
       {
         icon: 'https://static.ai-hobbyist.com/icons/link.png',
         title: '原神全角色',
         desc: '红血球AE3803|768*20|Wavenet|5.2',
         link: 'https://pan.ai-hobbyist.com/d/Models/SVS/DiffSinger/%E5%8E%9F%E7%A5%9E/Genshin_DiffSinger_Wavenet.7z',
+      },
+      {
+        icon: 'https://static.ai-hobbyist.com/icons/link.png',
+        title: '星穹铁道全角色',
+        desc: '红血球AE3803|1024*6|Lynxnet|2.7',
+        link: 'https://pan.ai-hobbyist.com/d/Models/SVS/DiffSinger/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/StarRail_DiffSinger_Lynxnet.7z',
+      },
+      {
+        icon: 'https://static.ai-hobbyist.com/icons/link.png',
+        title: '星穹铁道全角色',
+        desc: '红血球AE3803|768*20|Wavenet|2.7',
+        link: 'https://pan.ai-hobbyist.com/d/Models/SVS/DiffSinger/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/StarRail_DiffSinger_Wavenet.7z',
       },
       {
         icon: 'https://static.ai-hobbyist.com/icons/link.png',
