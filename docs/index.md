@@ -18,15 +18,15 @@ features:
   - icon: 🔗
     title: DDSP模型
     details: DDSP模型合集，用于歌声声线转换
-    link: https://notes.fe-mm.com/fe/javascript/types
+    link: nav/#ddsp-6-0
   - icon: 🔗
     title: GPT-Sovits模型
     details: 语音合成模型合集，用于合成语音
-    link: https://notes.fe-mm.com/fe/javascript/types
+    link: nav/#gpt-sovits
   - icon: 🔗
     title: DiffSinger模型
     details: DiffSinge模型合集，用于合成歌声
-    link: https://notes.fe-mm.com/fe/javascript/types
+    link: nav/#diffsinger
 ---
 
 <style>
