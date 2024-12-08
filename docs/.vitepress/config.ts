@@ -11,8 +11,8 @@ export default defineConfig({
   base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
 
   lang: 'zh-CN',
-  title: '茂茂物语',
-  description: '茂茂的成长之路，包含前端常用知识、源码阅读笔记、各种奇淫技巧、日常提效工具等',
+  title: 'AI Hobbyist',
+  description: 'AI Hobbyist 旗下的AI模型合集站',
   head,
 
   lastUpdated: true,
@@ -38,11 +38,11 @@ export default defineConfig({
       label: '目录',
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/AI-Hobbyist/model-nav' },{ icon: 'discord', link: 'https://discord.gg/eGzeMgYSPD' }],
 
     footer: {
       message: '如有转载或 CV 的请标注本站原文地址',
-      copyright: 'Copyright © 2019-present maomao',
+      copyright: 'Copyright © 2024-AI Hobbyist | Powered by maomao',
     },
 
     lastUpdated: {
@@ -66,14 +66,14 @@ export default defineConfig({
 
     /*** 自定义配置 ***/
     visitor: {
-      badgeId: 'maomao1996.vitepress-nav-template',
+      badgeId: 'AI-Hobbyist/model-nav',
     },
 
     comment: {
-      repo: 'maomao1996/vitepress-nav-template',
-      repoId: 'R_kgDOJC09Jg',
+      repo: 'AI-Hobbyist/model-nav',
+      repoId: 'R_kgDONajEwA',
       category: 'Announcements',
-      categoryId: 'DIC_kwDOJC09Js4Cekn0',
+      categoryId: 'DIC_kwDONajEwM4ClCLa',
     },
   },
 
