@@ -189,6 +189,12 @@ export const NAV_DATA: NavData[] = [
         title: '鸣潮全角色',
         desc: '红血球AE3803|1024*6|Lynxnet|1.4',
         link: 'https://pan.ai-hobbyist.com/d/Models/SVS/DiffSinger/%E9%B8%A3%E6%BD%AE/WutheringWaves_DiffSinger_Lynxnet.7z',
+      },
+      {
+        icon: 'https://static.ai-hobbyist.com/icons/link.png',
+        title: '鸣潮全角色',
+        desc: '红血球AE3803|768*20|Wavenet|1.4',
+        link: 'https://pan.ai-hobbyist.com/d/Models/SVS/DiffSinger/%E9%B8%A3%E6%BD%AE/WutheringWaves_DiffSinger_Wavenet.7z',
       }
     ],
   },
